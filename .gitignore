@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# NetCDF and scientific data
+*.nc
+*.grib
+*.grb
+*.h5
+*.hdf5
+
+# Model outputs
+*.json
+*.pkl
+*.joblib
+
+# Generated outputs
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Parquet and CSV outputs
+*.parquet
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
