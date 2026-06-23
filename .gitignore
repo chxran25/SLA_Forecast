@@ -21,7 +21,7 @@ venv/
 # Model outputs
 *.json
 *.pkl
-*.joblib
+*.joblibgit 
 
 # Generated outputs
 outputs/
@@ -43,3 +43,5 @@ Thumbs.db
 
 # Temporary files
 *.log
+
+xgb_backup.ipynb
