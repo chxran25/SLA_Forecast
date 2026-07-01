@@ -8,6 +8,7 @@ __pycache__/
 venv/
 venv_torch/
 venv_clstm/
+venv_xgb/
 .env/
 
 # Jupyter
@@ -24,6 +25,7 @@ venv_clstm/
 *.json
 *.pkl
 *.joblibgit 
+*.pth
 
 # Generated outputs
 outputs/
